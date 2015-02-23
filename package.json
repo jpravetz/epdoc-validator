@@ -1,0 +1,18 @@
+{
+    "name": "epdoc-validator",
+    "version": "0.9.0",
+    "description": "An API and config validator",
+    "bugs": {
+        "url": "https://github.com/jpravetz/epdoc-validator/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Jim Pravetz",
+        "email": "jpravetz@epdoc.com"
+    },
+    "dependencies": {
+        "validator": "^3.30.0",
+        "underscore": "^1.8.2"
+    },
+    "devDependencies": {}
+}
